@@ -1,0 +1,15 @@
+{
+   "name": "Spiddy - Fun New Tab",
+   "author": "Lets Find The shit...",
+   "description": "A delightfully silly new tab experience.",
+   "version": "0.0.0.1",
+   "default_locale": "en",
+   "manifest_version": 3,
+   "chrome_url_overrides": {
+     "newtab": "pindex.html"
+   },
+   "icons": {
+     "128": "img/128.png"
+   }
+ }
+ 
