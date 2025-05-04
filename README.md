@@ -1,6 +1,6 @@
-# 🕸️ SpiderVerse
+# 🕸️ Spidey Chrome Theme
 
-**SpiderVerse** is a Chrome extension designed to enhance your browsing experience by integrating Spider-Man-themed elements and functionalities. This extension brings the excitement of the Spider-Verse directly to your browser, offering a unique and interactive user interface.
+**Spidey Chrome Theme** is a Chrome extension designed to enhance your browsing experience by integrating Spider-Man-themed elements and functionalities. This extension brings the excitement of the Spider-Verse directly to your browser, offering a unique and interactive user interface.
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@
 ## 📁 Project Structure
 
 ```
-SpiderVerse/
+Spidey Chrome Theme/
 ├── _locales/
 │   └── en/
 │       └── messages.json
@@ -35,13 +35,13 @@ SpiderVerse/
 
 ## 🛠️ Installation
 
-To install the SpiderVerse extension:
+To install the Spidey Chrome Theme extension:
 
 1. Clone or download the repository to your local machine.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
-4. Click on "Load unpacked" and select the directory where you saved the SpiderVerse project.
-5. The SpiderVerse extension should now appear in your list of extensions.
+4. Click on "Load unpacked" and select the directory where you saved the Spidey Chrome Theme project.
+5. The Spidey Chrome Theme extension should now appear in your list of extensions.
 
 ## 📄 License
 
