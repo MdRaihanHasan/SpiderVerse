@@ -1,4 +1,4 @@
-![Kidpool]([https://example.com/path/to/image.png](https://raw.githubusercontent.com/MdRaihanHasan/Spidey-Chrome-Theme/refs/heads/master/img/128.png))
+![Kidpool](https://raw.githubusercontent.com/MdRaihanHasan/Spidey-Chrome-Theme/refs/heads/master/img/128.png)
 
 # 🕸️ Spidey Chrome Theme (KidPool release)
 
