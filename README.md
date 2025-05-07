@@ -1,5 +1,3 @@
-![Kidpool](https://raw.githubusercontent.com/MdRaihanHasan/Spidey-Chrome-Theme/refs/heads/master/img/128.png)
-
 # 🕸️ Spidey Chrome Theme (KidPool release)
 
 **Spidey Chrome Theme** is a Chrome extension designed to enhance your browsing experience by integrating Spider-Man-themed elements and functionalities. This extension brings the excitement of the Spider-Verse directly to your browser, offering a unique and interactive user interface.
@@ -51,4 +49,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
+![Kidpool](https://raw.githubusercontent.com/MdRaihanHasan/Spidey-Chrome-Theme/refs/heads/master/img/128.png)
 Contributions are welcome! If you'd like to contribute to SpiderVerse, please fork the repository and submit a pull request.
