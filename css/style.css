@@ -314,8 +314,8 @@ body {
 
 #addShortcut {
 	position: absolute;
-	top: 10vh;
-    left: 21%;
+	bottom: 20vh;
+    left: 17vw;
 	transform: translateX(-50%);
 	background: #fff9;
 	border-radius: calc(10px * var(--scale));
