@@ -48,6 +48,6 @@ To install the Spidey Chrome Theme extension:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
+Contributions are welcome! If you'd like to contribute to SpiderVerse, please fork the repository and submit a pull request.
 
 ![Kidpool](https://raw.githubusercontent.com/MdRaihanHasan/Spidey-Chrome-Theme/refs/heads/master/img/128.png)
-Contributions are welcome! If you'd like to contribute to SpiderVerse, please fork the repository and submit a pull request.
